@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460398743675",
+    "project_id": "grmilica-339d7",
+    "storage_bucket": "grmilica-339d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460398743675:android:e96e386f53c74aa13d12de",
+        "android_client_info": {
+          "package_name": "com.example.grmilica_version_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460398743675-mki7pqdq2193q2htmao6m5c6h057a8q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJh_xP1Z1Pl6A8eN4cIOmKTwjLBJBfaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460398743675-mki7pqdq2193q2htmao6m5c6h057a8q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
