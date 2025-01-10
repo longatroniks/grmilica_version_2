@@ -94,16 +94,6 @@ The main features were successfully tested and confirmed to work. Additional tes
 
 ---
 
-## Wireframes
-*(Include wireframe images if available)*
-
----
-
-## Developmental Process
-*(Describe the step-by-step process of creating the app)*
-
----
-
 ## How to Run
 1. Clone the repository.
 2. Open the project in your preferred IDE.
